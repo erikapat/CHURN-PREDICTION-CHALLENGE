@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1549638024228.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1956188953",
+    "id" : "C49331EB",
+    "lastKnownWriteTime" : 1549651620,
+    "last_content_update" : 1549651620824,
+    "path" : "~/Dropbox/PRUEBAS_DATA_SCIENCE/CHURN_SCHIBSTED/R CHURN SH/1.-analysis.R",
+    "project_path" : "1.-analysis.R",
+    "properties" : {
+        "cursorPosition" : "95,0",
+        "scrollLine" : "79",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

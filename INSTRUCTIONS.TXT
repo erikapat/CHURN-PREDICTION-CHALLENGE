@@ -1,0 +1,15 @@
+
+
+You would need to complete our Technical Challenge! This is your opportunity to show us exactly what you are made of. This is a Machine learning and Analytics challenge.
+
+A telecom company wants to reduce churn in its customer base. You’ve received a dataset which contains telephone records of a set of customers.
+
+The two main business questions to solve using this dataset are:
+
+1.       What drives churn and what can we do about it?
+
+2.       How can we create a propensity score (or churn probability) per customer?
+
+You should present your answers to these questions in the interview, including relevant statistics and/or data visualizations. You will be asked about details on how you solved the task, so make sure you bring code, etc., that you’ve used. We expect you to spend 2-4 hours solving this case.
+
+Please let us know when would you be able to deliver a final result..
