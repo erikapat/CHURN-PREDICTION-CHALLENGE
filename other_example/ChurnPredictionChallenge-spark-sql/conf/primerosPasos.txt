@@ -1,0 +1,4 @@
+#Inicialización del entorno de trabajo
+
+    gcloud init
+
